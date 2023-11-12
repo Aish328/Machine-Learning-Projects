@@ -1,4 +1,4 @@
-[https://colab.research.google.com/drive/1nC_4nyRI5GPkq4UQOEgQSqQK7HFeds-h?usp=sharing](colab link)
+[https://colab.research.google.com/drive/1nC_4nyRI5GPkq4UQOEgQSqQK7HFeds-h?usp=sharing](#colab link)
 
 Disease Predictor is a model that predicts the Disease corresponding input Symptoms by user.
 THe models used :
