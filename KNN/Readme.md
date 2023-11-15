@@ -1,5 +1,5 @@
-this is a KNN project developed by KNeighborClassifier model
-https://colab.research.google.com/drive/1gCIR-tjqEHig2NmcMAZ2kGZ45K3lgFrc?usp=sharing (colab link)
+[![Colab link]([[https://example.com/build/status](https://colab.research.google.com/drive/1nC_4nyRI5GPkq4UQOEgQSqQK7HFeds-h?usp=sharing]([https://colab.research.google.com/drive/1gCIR-tjqEHig2NmcMAZ2kGZ45K3lgFrc?usp=sharing)](https://colab.research.google.com/drive/1gCIR-tjqEHig2NmcMAZ2kGZ45K3lgFrc?usp=sharing)))]([[https://example.com/build/status](https://colab.research.google.com/drive/1nC_4nyRI5GPkq4UQOEgQSqQK7HFeds-h?usp=sharing](https://colab.research.google.com/drive/1gCIR-tjqEHig2NmcMAZ2kGZ45K3lgFrc?usp=sharing)))
+
 
 
 Prediction Algorithm:
