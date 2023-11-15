@@ -1,5 +1,7 @@
 this is a KNN project developed by KNeighborClassifier model
 https://colab.research.google.com/drive/1gCIR-tjqEHig2NmcMAZ2kGZ45K3lgFrc?usp=sharing (colab link)
+
+
 Prediction Algorithm:
 1.calculate the distance from x t all points in the data
 2. sorts the points in the data according to the increasing distance from x
