@@ -7,5 +7,11 @@ Face_mask_detector  is a classifier model that classifies  an image into :
 1. With_mak
 2. Without_mask
 
+The model is trained on a dataset containing images of people with and without face masks.The dataset  was is  imported from https://github.com/balajisrinivas.git .
+The data consists of 18000 images which is insufficient and hence is  responsible for overfitting . Hence ptimization in dataset is required.
+The target image is sized to (244,244) with RGB channeling .
 
+##Data Pre-Processing:
 
+Two empty lists named Data , labels is created to store subsequest images in "data" list and their  corresponding labels in the "labels" list.
+A list named  "categories" is initialised containing folder of with_mask and without_mask images.
