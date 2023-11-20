@@ -15,3 +15,6 @@ The target image is sized to (244,244) with RGB channeling .
 
 Two empty lists named Data , labels is created to store subsequest images in "data" list and their  corresponding labels in the "labels" list.
 A list named  "categories" is initialised containing folder of with_mask and without_mask images.
+
+"LabelBinarizer()" function is used to change the Alphabetic values in "labels" list to numerical format.
+Hence  we get both "data" and "labels" list containing  numerical values.
