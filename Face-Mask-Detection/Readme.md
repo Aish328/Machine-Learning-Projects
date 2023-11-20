@@ -18,3 +18,8 @@ A list named  "categories" is initialised containing folder of with_mask and wit
 
 "LabelBinarizer()" function is used to change the Alphabetic values in "labels" list to numerical format.
 Hence  we get both "data" and "labels" list containing  numerical values.
+
+##Training
+
+for training , Earning rate is set to 1e-4 , epochs = 20, batch size = 96.
+These set parameters are called hyperparametrs which are tuned in order to optimise model for avoiding overfitting . this process is callef ###Hyper-Parameter Tuning
