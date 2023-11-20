@@ -8,7 +8,7 @@ Face_mask_detector  is a classifier model that classifies  an image into :
 2. Without_mask
 
 The model is trained on a dataset containing images of people with and without face masks.The dataset  was is  imported from https://github.com/balajisrinivas.git .
-The data consists of 18000 images which is insufficient and hence is  responsible for overfitting . Hence ptimization in dataset is required.
+The data consists of 18000 images which is insufficient and hence is  responsible for overfitting . Hence optimization in dataset is required.
 The target image is sized to (244,244) with RGB channeling .
 
                             DATA PRE-PROCESSING:
@@ -19,10 +19,10 @@ A list named  "categories" is initialised containing folder of with_mask and wit
 "LabelBinarizer()" function is used to change the Alphabetic values in "labels" list to numerical format.
 Hence  we get both "data" and "labels" list containing  numerical values.
 
-                              TRAINING
+                                TRAINING
 
 for training , Earning rate is set to 1e-4 , epochs = 20, batch size = 96.
-These set parameters are called hyperparametrs which are tuned in order to optimise model for avoiding overfitting . this process is callef ###Hyper-Parameter Tuning .
+These set parameters are called hyperparametrs which are tuned in order to optimise model for avoiding overfitting . this process is callef "Hyper-Parameter Tuning" .
 
 ImageDataGenerator() function is used for Data augmentation.
 
