@@ -7,6 +7,8 @@ Model used : SVC --> Support Vector Classifier.
 
 [![colab link]([https://example.com/build/status](https://colab.research.google.com/drive/13Rc84grfr2FtvJ0ep1R0sZsSlj7gzym_?usp=sharing))]([https://example.com/build/status](https://colab.research.google.com/drive/13Rc84grfr2FtvJ0ep1R0sZsSlj7gzym_?usp=sharing))
 
+
+
 Imported modules:
 numpy , Pandas , seaborn , matplotlib.pyplot
 
