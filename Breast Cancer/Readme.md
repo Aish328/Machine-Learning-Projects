@@ -28,6 +28,31 @@ The Dataset consists of Key-Value pairs were keys inclue:
 
 Each value has certain numerical values in exponential format
 
+Methodology
+
+Model used : 
+
+SVC: Support Vector Classifier imported from sklearn.svm
+
+
+Model Building
+
+The data is split into X_train , x_test, y_train , Y_test using train_test_split imported from sklearn.model_selection
+
+
+ML Algorithm applied : SVM (Support Vector matrix) is the form of SVC
+
+Hyperparameter tuning is done using GridSearchCV imported from sklearn.model_selection .
+
+It takes an estimator like SVC, and creates a new estimator, that behaves exactly the same - in this case, like a classifier. 
+
+Evaluation Metrics
+Evaluation based on accuracy, precision, recall, and F1-score
+Confusion matrix to analyze model performance
+
+The model is  fit with X_train , Y_train and the ouput is displayed in confusion matrix and classification report.
+
+
 [Open in Colab](https://colab.research.google.com/drive/1eOnp-t2_YKiM_Py4Way0ZsRWQgIGgyox?usp=sharing)
 
 
