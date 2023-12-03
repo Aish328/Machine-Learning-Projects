@@ -52,7 +52,7 @@ Confusion matrix to analyze model performance
 
 The model is  fit with X_train , Y_train and the ouput is displayed in confusion matrix and classification report.
 
-Here is the link to open in Colab
+Here is the link to open in Colab:
 
 [Open in Colab](https://colab.research.google.com/drive/1eOnp-t2_YKiM_Py4Way0ZsRWQgIGgyox?usp=sharing)
 
