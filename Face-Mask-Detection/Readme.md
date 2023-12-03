@@ -30,6 +30,10 @@ Main model is compilation of two models:
 1. Base model - takes input , (MobileNetV2)
 2. Head Model - serves the output (AveragePooling2D)
 
+
+
+
+
                           COMPILING AND EVALUATING
 The model is predicted using  .predict() function and the result is displayed in Classification_report and plots.
 THe generated model is saved with ".keras" extension in h5 format.
