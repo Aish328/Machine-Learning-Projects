@@ -8,8 +8,9 @@ THe models used :
 
 3.RandomForestClassifier 
 
-
-[![Colab link]([https://example.com/build/status](https://colab.research.google.com/drive/1nC_4nyRI5GPkq4UQOEgQSqQK7HFeds-h?usp=sharing))]([https://example.com/build/status](https://colab.research.google.com/drive/1nC_4nyRI5GPkq4UQOEgQSqQK7HFeds-h?usp=sharing))
-
 The data used is divides into 33 columns in which 32 columns contain symptoms and last colmn is "prognosis" column.
 The train data and test data in X and Y are split within these 32 and 1 column via train_test_split fucntion imported  from sklearn.model_selection.
+
+
+
+[![Colab link]([https://example.com/build/status](https://colab.research.google.com/drive/1nC_4nyRI5GPkq4UQOEgQSqQK7HFeds-h?usp=sharing))]([https://example.com/build/status](https://colab.research.google.com/drive/1nC_4nyRI5GPkq4UQOEgQSqQK7HFeds-h?usp=sharing))
