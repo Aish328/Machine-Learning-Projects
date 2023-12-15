@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp
 import pyautogui
 import matplotlib
-print(matplotlib.get_backend())
+%print(matplotlib.get_backend())
 cap = cv2.VideoCapture(0)
 hand_detector = mp.solutions.hands.Hands()
 drawing_utils = mp.solutions.drawing_utils
