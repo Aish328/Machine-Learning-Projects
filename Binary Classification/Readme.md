@@ -5,4 +5,6 @@ It is collection  of 133x44 matrix storing information various organisms and the
 
 The model uses Random forest classifier to classify the acitivity of organisms into "acitve " and  "inactive" according to their concecntration.
 
+
+
 The model focuses on SARSCorona virus neglecting the "intermediate" occurance hence making the classifier as binary Classiier.
