@@ -4,7 +4,7 @@ This project implements a deep learning model to detect whether a person is wear
 
 # Basic Outline
 Face_mask_detector  is a classifier model that classifies  an image into :
-1. With_mak
+1. With_mask
 2. Without_mask
 
 The model is trained on a dataset containing images of people with and without face masks.The dataset  was is  imported from https://github.com/balajisrinivas.git .
